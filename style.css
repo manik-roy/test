@@ -1,14 +1,11 @@
 img {
   width: 200px;
   height: 200px;
-  border-radius: 50%;
 }
 .avatar {
-  width: 128px;
-  height: 128px;
   margin: 10px;
-  border: 10px solid red;
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
+  outline: 10px solid red;
 }
